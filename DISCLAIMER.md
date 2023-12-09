@@ -1,0 +1,1 @@
+This code for the competition was created by Arkarachai Fungtammasan as a hoppy while employed at DNAnexus. All the work was performed without DNAnexus supervision and was all done outside the working hours or resources. DNAnexus does not endorse this submission/code and is not responsible for the misinterpretation or mistake caused by information in this repo. 

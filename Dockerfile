@@ -18,4 +18,4 @@ COPY yellow_avocado.ipynb /app/
 EXPOSE 8888
 
 # Command to run Jupyter Notebook (change the notebook name if needed)
-CMD ["jupyter", "notebook", "--ip=0.0.0.0", "--no-browser", "--allow-root", "--NotebookApp.token="]
+CMD ["jupyter-lab", "--ip=0.0.0.0", "--no-browser", "--allow-root", "--NotebookApp.token="]
